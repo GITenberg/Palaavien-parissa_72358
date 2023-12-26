@@ -1,0 +1,31 @@
+_repo: Palaavien-parissa_72358
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salmela, Marja
+    aliases:
+    - Stenroth, Naemi Maria‏
+    - Stenroth, Maria‏
+    birthdate: 1875
+    deathdate: 1924
+    gutenberg_agent_id: '6031'
+    url: http://www.gutenberg.org/2009/agents/6031
+    wikipedia: https://fi.wikipedia.org/wiki/Marja_Salmela
+description: ''
+gutenberg_issued: '2023-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72358'
+language: fi
+pgterms:marc905: 20231016101834salmela
+pgterms:marc906: '1915'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Palaavien parissa
+url: http://www.gutenberg.org/ebooks/72358
