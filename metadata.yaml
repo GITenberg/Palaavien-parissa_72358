@@ -1,5 +1,8 @@
 _repo: Palaavien-parissa_72358
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Salmela, Marja
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6031
     wikipedia: https://fi.wikipedia.org/wiki/Marja_Salmela
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72358#Palaavien-parissa
 gutenberg_issued: '2023-12-08'
 gutenberg_type: Text
 identifiers:
